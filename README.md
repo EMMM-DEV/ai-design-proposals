@@ -1,13 +1,41 @@
-# 🧠 Creative Ideas — 宝宝的突发奇想档案馆
+# AI Design Proposals
 
-> 这里收集宝宝的各种天马行空的创意设计和灵感方案。
-> 每个想法都值得被认真记录，说不定哪个就改变了世界呢。
-
-## 📂 文档索引
-
-| 文档 | 日期 | 状态 | 简介 |
-|---|---|---|---|
-| [Efficient Language (EL)](./efficient-language-design.md) | 2026-03 | 设计阶段 | 用自创高语义密度字符语言替代自然语言推理 |
+> A collection of exploratory design proposals for novel AI architectures, training paradigms, and reasoning systems.
 
 ---
-*有新想法随时丢给娜娜，我帮你整理归档~*
+
+## 📂 Proposals
+
+| Folder | Title | Status |
+|--------|-------|--------|
+| [`efficient-language/`](./efficient-language/) | Efficient Language (EL) — High-Semantic-Density Language Design | Design phase |
+
+---
+
+## 📋 Conventions
+
+- Each proposal lives in its own directory
+- Documents are maintained in both **Chinese** (`.md`) and **English** (`.en.md`)
+- Authorship is credited per-proposal in document frontmatter
+
+---
+
+## 📁 目录结构
+
+> 收录 AI 相关的前沿设计提案，涵盖新型架构、训练范式与推理系统。
+
+---
+
+## 📂 提案列表
+
+| 目录 | 标题 | 状态 |
+|------|------|------|
+| [`efficient-language/`](./efficient-language/) | 高效语义语言（EL）设计方案 | 设计阶段 |
+
+---
+
+## 📋 规范
+
+- 每个提案独立存放于各自目录
+- 文档同时维护**中文**（`.md`）与**英文**（`.en.md`）版本
+- 作者信息标注于各文档头部
